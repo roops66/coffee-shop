@@ -1,0 +1,1 @@
+Building a few coffee shop pages based on the design and code from the 'Free Code Camp Intro to Responsive Web Design' tutorial. 
